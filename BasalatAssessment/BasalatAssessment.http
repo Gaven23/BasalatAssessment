@@ -1,0 +1,6 @@
+@BasalatAssessment_HostAddress = http://localhost:5268
+
+GET {{BasalatAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

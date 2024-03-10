@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "elI6TAhW7STroaFpAk6152r7bxGEw4OOyQWHKCa2OIlJtG1/zmIOtHXJe177yiPs3c5BE3GALtev3f1NHhVLoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

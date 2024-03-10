@@ -1,0 +1,59 @@
+[
+  {
+    "ContainingType": "BasalatAssessment.Vehicle.Controllers.StockController",
+    "Method": "GetVehicleMakesAsync",
+    "RelativePath": "api/Stock/VehicleBodie",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BasalatAssessment.Domain.Models.VehicleBodieResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BasalatAssessment.Vehicle.Controllers.VehicleController",
+    "Method": "GetVehicleMakesAsync",
+    "RelativePath": "api/Vehicle/VehicleMakes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BasalatAssessment.Domain.Models.VehicleMakeResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

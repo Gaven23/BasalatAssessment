@@ -1,0 +1,6 @@
+C:\Users\Omphile.mojahi\source\repos\VehicleLoggingAPI\blazor\VehicleTracking.Web\VehicleTracking.Web.Domain\obj\Debug\net7.0\VehicleTracking.Web.Domain.csproj.AssemblyReference.cache
+C:\Users\Omphile.mojahi\source\repos\VehicleLoggingAPI\blazor\VehicleTracking.Web\VehicleTracking.Web.Domain\obj\Debug\net7.0\VehicleTracking.Web.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omphile.mojahi\source\repos\VehicleLoggingAPI\blazor\VehicleTracking.Web\VehicleTracking.Web.Domain\obj\Debug\net7.0\VehicleTracking.Web.Domain.AssemblyInfoInputs.cache
+C:\Users\Omphile.mojahi\source\repos\VehicleLoggingAPI\blazor\VehicleTracking.Web\VehicleTracking.Web.Domain\obj\Debug\net7.0\VehicleTracking.Web.Domain.AssemblyInfo.cs
+C:\Users\Omphile.mojahi\source\repos\VehicleLoggingAPI\blazor\VehicleTracking.Web\VehicleTracking.Web.Domain\obj\Debug\net7.0\VehicleTracking.Web.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Omphile.mojahi\source\repos\VehicleLoggingAPI\blazor\VehicleTracking.Web\VehicleTracking.Web.Domain\obj\Debug\net7.0\VehicleTracking.Web.Domain.sourcelink.json

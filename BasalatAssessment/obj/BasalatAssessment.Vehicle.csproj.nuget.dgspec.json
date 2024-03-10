@@ -1,0 +1,491 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj",
+        "projectName": "BasalatAssessment.Domain",
+        "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omphile.mojahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj",
+        "projectName": "BasalatAssessment.Common",
+        "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj",
+        "packagesPath": "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omphile.mojahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj",
+        "projectName": "BasalatAssessment.Stock.Data",
+        "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj",
+        "packagesPath": "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omphile.mojahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
+        "projectName": "BasalatAssessment.Vehicle.Data.Tracking",
+        "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
+        "packagesPath": "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omphile.mojahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Azure.Services.AppAuthentication": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj",
+        "projectName": "BasalatAssessment.Vehicle.Data",
+        "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj",
+        "packagesPath": "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omphile.mojahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
+        "projectName": "BasalatAssessment.Vehicle",
+        "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
+        "packagesPath": "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omphile.mojahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.21.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.ApplicationInsights": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.10.0.77988, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

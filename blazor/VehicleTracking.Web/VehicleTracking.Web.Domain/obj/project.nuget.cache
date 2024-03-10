@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "4V8XsPPibJ+y96zTK8teuse1Z4cqzf/dcoPwJruwJGdgc9v2guiVIzOzxmVWFWdvNl25CihtnEB/IB4z6haG2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omphile.mojahi\\source\\repos\\VehicleLoggingAPI\\blazor\\VehicleTracking.Web\\VehicleTracking.Web.Domain\\VehicleTracking.Web.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.3\\microsoft.aspnetcore.components.analyzers.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.aspnetcore.components.dataannotations.validation\\3.2.0-rc1.20223.4\\microsoft.aspnetcore.components.dataannotations.validation.3.2.0-rc1.20223.4.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.3\\microsoft.aspnetcore.components.forms.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.3\\microsoft.aspnetcore.metadata.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Omphile.mojahi\\.nuget\\packages\\microsoft.jsinterop\\3.1.3\\microsoft.jsinterop.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
