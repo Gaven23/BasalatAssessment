@@ -93,16 +93,16 @@ public static class Program
     }
 
 
-    private static void ConfigureData(IServiceCollection services, string? smartHubConnectionString)
+    private static void ConfigureData(IServiceCollection services, string? VehicleTrackingConnectionString)
     {
-        if (smartHubConnectionString == null)
+        if (VehicleTrackingConnectionString == null)
         {
-            throw new ArgumentNullException(nameof(smartHubConnectionString));
+            throw new ArgumentNullException(nameof(VehicleTrackingConnectionString));
         }
 
         services.AddDbContext<ApplicationDbContext>(options =>
         {
-            options.UseSqlServer(smartHubConnectionString);
+            options.UseSqlServer(VehicleTrackingConnectionString);
         });
 
         services.AddScoped<IDataStore, DataStore>();
