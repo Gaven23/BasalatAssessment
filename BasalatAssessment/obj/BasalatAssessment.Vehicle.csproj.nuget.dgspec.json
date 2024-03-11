@@ -308,6 +308,9 @@
               },
               "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj": {
                 "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\BasalatAssessment.Common.csproj"
+              },
+              "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj": {
+                "projectPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj"
               }
             }
           }
@@ -417,6 +420,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.*, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.*, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.*, )"
+            },
             "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
               "version": "[2.21.0, )"
@@ -428,6 +443,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[*, )"
             },
             "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
               "target": "Package",

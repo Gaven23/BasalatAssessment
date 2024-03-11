@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasalatAssessment.Vehicle.Data.Tracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d16c6b65d74507cdb5d46525bab3a26a1ee33e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba146442bed061db4ad13cd3fafdc37d86402bc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasalatAssessment.Vehicle.Data.Tracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasalatAssessment.Vehicle.Data.Tracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,11 +6,11 @@ namespace BasalatAssessment.Vehicle.Data.Tracking
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
-        internal DbSet<VehicleTracking> VehicleTracking { get; set; }
+        internal DbSet<VehicleDetails> VehicleDetails { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<VehicleTracking>(entity =>
+            modelBuilder.Entity<VehicleDetails>(entity =>
             {
                 entity.HasKey(e => e.VehicleId);
             });

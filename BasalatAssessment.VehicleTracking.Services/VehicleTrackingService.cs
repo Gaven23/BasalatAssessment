@@ -1,9 +1,5 @@
 ﻿using BasalatAssessment.Vehicle.Data.Tracking;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using BasalatAssessment.Vehicle.Data.Tracking.Entities;
 
 namespace BasalatAssessment.VehicleTracking.Services
 {
@@ -16,9 +12,16 @@ namespace BasalatAssessment.VehicleTracking.Services
 
         }
 
-        public async Task AddVehicleAsync(BasalatAssessment.Domain.Models.VehicleTracking vehicleTracking)
+        public async Task<IEnumerable<VehicleDetails>> GetVehiclesAsync(Guid vehicleId, CancellationToken cancellationToken = default)
         {
-            await _dataStore.SaveVehicleDetailsAsync(vehicleTracking);
+            var vehicle = await _dataStore.(vehicleId, cancellationToken);
+
+            return vehicle.Select(v => v.ToVehicleProfile());
+        }
+
+        public async Task AddVehicleAsync(VehicleDetails vehicleDetails)
+        {
+            await _dataStore.SaveVehicleDetailsAsync(vehicleDetails);
         }
     }
 }

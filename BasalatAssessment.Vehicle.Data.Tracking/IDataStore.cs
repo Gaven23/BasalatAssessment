@@ -4,6 +4,7 @@ namespace BasalatAssessment.Vehicle.Data.Tracking
 {
     public interface IDataStore
     {
-        Task SaveVehicleDetailsAsync(BasalatAssessment.Domain.Models.VehicleTracking vehicleTrackin);
+        Task<IEnumerable<VehicleDetails>> GetVehiclesDetailsAsync(CancellationToken cancellationToken = default);
+        Task SaveVehicleDetailsAsync(VehicleDetails vehicleDetails);
     }
 }

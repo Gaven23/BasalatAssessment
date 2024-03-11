@@ -24,7 +24,11 @@ namespace BasalatAssessment.Stock.Data.Converters
                 RearTrack = vehicleBodie.Rear_Track,
                 GroundClearance = vehicleBodie.Ground_Clearance,
                 CargoCapacity = vehicleBodie.Cargo_Capacity,
-                
+                MaxCargoCapacity = vehicleBodie.Max_Cargo_Capacity,
+                CurbWeight = vehicleBodie.Curb_Weight,
+                GrossWeight = vehicleBodie.Gross_Weight,
+                MaxPayload = vehicleBodie.Max_Payload,
+                MaxTowingCapacity = vehicleBodie.Max_Towing_Capacity      
             };
         }
     }

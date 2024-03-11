@@ -16,11 +16,9 @@
         public object GroundClearance { get; set; }
         public object CargoCapacity { get; set; }
         public object MaxCargoCapacity { get; set; }
-        //public int CurbWeight { get; set; }
-        //public object GrossWeight { get; set; }
-        //public object MaxPayload { get; set; }
-        //public object MaxTowingCapacity { get; set; }
-        //public MakeModelTrim MakeModelTrim { get; set; }
-        //public MakeModel MakeModel { get; set; }
+        public object CurbWeight { get; set; }
+        public object GrossWeight { get; set; }
+        public object MaxPayload { get; set; }
+        public object MaxTowingCapacity { get; set; }
     }
 }

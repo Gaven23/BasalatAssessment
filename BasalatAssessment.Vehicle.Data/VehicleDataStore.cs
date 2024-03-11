@@ -14,12 +14,13 @@ namespace BasalatAssessment.Vehicle.Data
         private readonly VehicleHttpClient _vehicleHttpClient;
         private readonly AppSettings _appSettings;
         private readonly ILogger<VehicleDataStore> _logger;
-
-        public VehicleDataStore(VehicleHttpClient vehicleHttpClient, IOptionsSnapshot<AppSettings> appSettings, ILogger<VehicleDataStore> logger)
+        private readonly IStockDataStore _stockDataStore;
+        public VehicleDataStore(VehicleHttpClient vehicleHttpClient, IOptionsSnapshot<AppSettings> appSettings, ILogger<VehicleDataStore> logger, IStockDataStore stockDataStore)
         {
             _vehicleHttpClient = vehicleHttpClient;
             _appSettings = appSettings.Value;
             _logger = logger;
+            _stockDataStore = stockDataStore;
         }
 
         /// <summary>
@@ -98,6 +99,8 @@ namespace BasalatAssessment.Vehicle.Data
 
             return null;
         }
+
+
     }
 }
 

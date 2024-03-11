@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BasalatAssessment.Domain\BasalatAssessment.Domain.csproj" />
     <ProjectReference Include="..\BasalatAssessment.Shared\BasalatAssessment.Common.csproj" />
+    <ProjectReference Include="..\BasalatAssessment.Vehicle.Data.Tracking\BasalatAssessment.Vehicle.Data.Tracking.csproj" />
   </ItemGroup>
 
   <ItemGroup>

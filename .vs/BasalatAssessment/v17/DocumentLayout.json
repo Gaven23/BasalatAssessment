@@ -3,100 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\vehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\vehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\interfaces\\ivehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\interfaces\\ivehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\hangfire\\hangfireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\hangfire\\hangfireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\datastore\\vehicletrackingdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\datastore\\vehicletrackingdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A686947-C6DA-4792-AB99-93222C22E01A}|BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicletracking.services\\vehicletrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A686947-C6DA-4792-AB99-93222C22E01A}|BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj|solutionrelative:basalatassessment.vehicletracking.services\\vehicletrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\helper\\pageddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\helper\\pageddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A686947-C6DA-4792-AB99-93222C22E01A}|BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicletracking.services\\basalatassessment.vehicletracking.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A686947-C6DA-4792-AB99-93222C22E01A}|BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj|solutionrelative:basalatassessment.vehicletracking.services\\basalatassessment.vehicletracking.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\entities\\vehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\entities\\vehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A686947-C6DA-4792-AB99-93222C22E01A}|BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicletracking.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A686947-C6DA-4792-AB99-93222C22E01A}|BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj|solutionrelative:basalatassessment.vehicletracking.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\interfaces\\ivehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\interfaces\\ivehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\models\\vehicletracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\models\\vehicletracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\interfaces\\istockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\interfaces\\istockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\basalatassessment.vehicle.data.tracking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\basalatassessment.vehicle.data.tracking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\entities\\vehicletracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\entities\\vehicletracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\datastore\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\datastore\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E023045-AEA7-4AC0-936C-4096A7777A75}|BasalatAssessment.Shared\\BasalatAssessment.Common.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.shared\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E023045-AEA7-4AC0-936C-4096A7777A75}|BasalatAssessment.Shared\\BasalatAssessment.Common.csproj|solutionrelative:basalatassessment.shared\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\basalatassessment.stock.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|solutionrelative:basalatassessment.stock.data\\basalatassessment.stock.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\models\\vehiclemakeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\models\\vehiclemakeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\converters\\vehiclestockconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|solutionrelative:basalatassessment.stock.data\\converters\\vehiclestockconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\models\\vehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\models\\vehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\models\\vehiclebodie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\models\\vehiclebodie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\datastore\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\datastore\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\stockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|solutionrelative:basalatassessment.stock.data\\stockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\vehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\vehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\models\\vehiclebodieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\models\\vehiclebodieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\interfaces\\istockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\interfaces\\istockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.domain\\models\\vehiclebodieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\models\\vehiclebodieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\converters\\vehiclestockconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|solutionrelative:basalatassessment.stock.data\\converters\\vehiclestockconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\basalatassessment.vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\basalatassessment.vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\converters\\vehicleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\converters\\vehicleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data.tracking\\basalatassessment.vehicle.data.tracking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{757D00CD-F074-46F3-A9D6-F09F5F35667D}|BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj|solutionrelative:basalatassessment.vehicle.data.tracking\\basalatassessment.vehicle.data.tracking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\basalatassessment.stock.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|solutionrelative:basalatassessment.stock.data\\basalatassessment.stock.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\models\\vehiclemakeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\models\\vehiclemakeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\models\\collectionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\models\\collectionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\converters\\vehicleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\converters\\vehicleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\stockhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|solutionrelative:basalatassessment.stock.data\\stockhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\helper\\pageddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\helper\\pageddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8D5AE56-EE0B-4A80-9C8D-A9E8A8D92119}|BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.stock.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E023045-AEA7-4AC0-936C-4096A7777A75}|BasalatAssessment.Shared\\BasalatAssessment.Common.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.shared\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E023045-AEA7-4AC0-936C-4096A7777A75}|BasalatAssessment.Shared\\BasalatAssessment.Common.csproj|solutionrelative:basalatassessment.shared\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -147,20 +143,12 @@
       "RelativeMoniker": "D:0:0:{E8FA9227-8612-4DC3-B8C6-71A300D0714E}|BasalatAssessment.Domain\\BasalatAssessment.Domain.csproj|solutionrelative:basalatassessment.domain\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment.vehicle.data\\vehiclehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E83C1B6-AEDD-4DC2-867D-8B19841C04D0}|BasalatAssessment.Vehicle.Data\\BasalatAssessment.Vehicle.Data.csproj|solutionrelative:basalatassessment.vehicle.data\\vehiclehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\basalatassessment.vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|solutionrelative:basalatassessment\\basalatassessment.vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B7C10C4-7B39-4615-82C8-82FE9D3119F0}|BasalatAssessment\\BasalatAssessment.Vehicle.csproj|c:\\users\\omphile.mojahi\\source\\repos\\gaven23\\basalatassessment\\basalatassessment\\basalatassessment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -182,179 +170,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "VehicleTrackingDataStore.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\DataStore\\VehicleTrackingDataStore.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\DataStore\\VehicleTrackingDataStore.cs",
               "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\DataStore\\VehicleTrackingDataStore.cs",
               "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\DataStore\\VehicleTrackingDataStore.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T20:11:32.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Program.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment\\Program.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Program.cs",
-              "RelativeToolTip": "BasalatAssessment\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T04:14:51.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VehicleDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwFkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:33:09.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "VehicleController.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Controllers\\VehicleController.cs",
               "RelativeDocumentMoniker": "BasalatAssessment\\Controllers\\VehicleController.cs",
               "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Controllers\\VehicleController.cs",
               "RelativeToolTip": "BasalatAssessment\\Controllers\\VehicleController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwB4AAAAJAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwDAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T14:54:20.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IVehicleDataStore.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Interfaces\\IVehicleDataStore.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Interfaces\\IVehicleDataStore.cs",
               "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Interfaces\\IVehicleDataStore.cs",
               "RelativeToolTip": "BasalatAssessment.Domain\\Interfaces\\IVehicleDataStore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAB+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T15:05:05.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IDataStore.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\IDataStore.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\IDataStore.cs",
               "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\IDataStore.cs",
               "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\IDataStore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T20:13:29.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VehicleTrackingService.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.VehicleTracking.Services\\VehicleTrackingService.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.VehicleTracking.Services\\VehicleTrackingService.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.VehicleTracking.Services\\VehicleTrackingService.cs",
-              "RelativeToolTip": "BasalatAssessment.VehicleTracking.Services\\VehicleTrackingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T21:07:15.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasalatAssessment.VehicleTracking.Services",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj",
-              "RelativeDocumentMoniker": "BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj",
-              "RelativeToolTip": "BasalatAssessment.VehicleTracking.Services\\BasalatAssessment.VehicleTracking.Services.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T20:53:49.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VehicleTracking.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleTracking.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\VehicleTracking.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleTracking.cs",
-              "RelativeToolTip": "BasalatAssessment.Domain\\Models\\VehicleTracking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:34:50.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IStockDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
-              "RelativeToolTip": "BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:14:27.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.VehicleTracking.Services\\Program.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.VehicleTracking.Services\\Program.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.VehicleTracking.Services\\Program.cs",
-              "RelativeToolTip": "BasalatAssessment.VehicleTracking.Services\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:52:24.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "VehicleTracking.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleTracking.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleTracking.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleTracking.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleTracking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "VehicleDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleDetails.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleDetails.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleDetails.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\Entities\\VehicleDetails.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T20:18:11.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BasalatAssessment.Vehicle.Data.Tracking",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T20:13:17.52Z",
+              "DocumentIndex": 4,
+              "Title": "PagedData.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:56:17.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangFireService.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Hangfire\\HangFireService.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Hangfire\\HangFireService.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Hangfire\\HangFireService.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Hangfire\\HangFireService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:49:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\AppSettings.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Shared\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\AppSettings.cs",
+              "RelativeToolTip": "BasalatAssessment.Shared\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:44:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\appsettings.json",
+              "RelativeDocumentMoniker": "BasalatAssessment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\appsettings.json",
+              "RelativeToolTip": "BasalatAssessment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T04:14:54.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Program.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment\\Program.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Program.cs",
+              "RelativeToolTip": "BasalatAssessment\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAlwHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:14:51.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:21:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleBodie.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
+              "RelativeToolTip": "BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:01:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehicleBodieResult.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
+              "RelativeToolTip": "BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:51:22.964Z",
               "EditorCaption": ""
             },
             {
@@ -373,19 +361,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "StockDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\StockDataStore.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\StockDataStore.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\StockDataStore.cs",
+              "RelativeToolTip": "BasalatAssessment.Stock.Data\\StockDataStore.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:21:20.552Z",
+              "WhenOpened": "2024-03-10T11:15:49.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "VehicleDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\VehicleDataStore.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:33:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStockDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
+              "RelativeToolTip": "BasalatAssessment.Domain\\Interfaces\\IStockDataStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:14:27.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Controllers\\StockController.cs",
+              "RelativeToolTip": "BasalatAssessment\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:12:43.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasalatAssessment.Vehicle.csproj",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
+              "RelativeDocumentMoniker": "BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
+              "RelativeToolTip": "BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T14:08:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleStockConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
+              "RelativeToolTip": "BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:05:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Program.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Program.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Program.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:15:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VehicleConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:26:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BasalatAssessment.Vehicle.Data.Tracking.csproj",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
+              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
+              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-10T20:13:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "BasalatAssessment.Stock.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj",
               "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj",
@@ -398,45 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\Program.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data.Tracking\\Program.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data.Tracking\\Program.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T19:49:29.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "VehicleStockConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
-              "RelativeToolTip": "BasalatAssessment.Stock.Data\\Converters\\VehicleStockConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:05:23.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\appsettings.json",
-              "RelativeDocumentMoniker": "BasalatAssessment\\appsettings.json",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\appsettings.json",
-              "RelativeToolTip": "BasalatAssessment\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T04:14:54.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "VehicleMakeResult.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Models\\VehicleMakeResult.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Models\\VehicleMakeResult.cs",
@@ -444,62 +498,11 @@
               "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Models\\VehicleMakeResult.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:29:06.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T09:29:06.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "VehicleBodieResult.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
-              "RelativeToolTip": "BasalatAssessment.Domain\\Models\\VehicleBodieResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:51:22.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "VehicleBodie.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
-              "RelativeToolTip": "BasalatAssessment.Domain\\Models\\VehicleBodie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:01:41.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StockDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\StockDataStore.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\StockDataStore.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\StockDataStore.cs",
-              "RelativeToolTip": "BasalatAssessment.Stock.Data\\StockDataStore.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAACVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:15:49.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Controllers\\StockController.cs",
-              "RelativeToolTip": "BasalatAssessment\\Controllers\\StockController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:12:43.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "CollectionResponse.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\Models\\CollectionResponse.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\Models\\CollectionResponse.cs",
@@ -511,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "CollectionResponse.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Models\\CollectionResponse.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Models\\CollectionResponse.cs",
@@ -523,19 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "VehicleConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Converters\\VehicleConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:26:47.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "StockHttpClient.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Stock.Data\\StockHttpClient.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Stock.Data\\StockHttpClient.cs",
@@ -556,18 +547,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T00:51:58.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "PagedData.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Helper\\PagedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T07:56:17.207Z"
             },
             {
               "$type": "Document",
@@ -595,18 +574,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\AppSettings.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Shared\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\AppSettings.cs",
-              "RelativeToolTip": "BasalatAssessment.Shared\\AppSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T05:44:17.08Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 30,
               "Title": "VehicleMake.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleMake.cs",
@@ -619,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "Utilities.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Utilities\\Utilities.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Utilities\\Utilities.cs",
@@ -631,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\Model.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\Model.cs",
@@ -643,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "VehicleHttpClient.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\VehicleHttpClient.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\VehicleHttpClient.cs",
@@ -656,18 +623,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Program.cs",
-              "RelativeDocumentMoniker": "BasalatAssessment.Vehicle.Data\\Program.cs",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Vehicle.Data\\Program.cs",
-              "RelativeToolTip": "BasalatAssessment.Vehicle.Data\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T17:15:10.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BasalatAssessment\\Properties\\launchSettings.json",
@@ -679,20 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "BasalatAssessment.Vehicle.csproj",
-              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
-              "RelativeDocumentMoniker": "BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
-              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
-              "RelativeToolTip": "BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T14:08:00.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 37,
               "Title": "BasalatAssessment.http",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment\\BasalatAssessment.http",
               "RelativeDocumentMoniker": "BasalatAssessment\\BasalatAssessment.http",
@@ -704,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Program.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Program.cs",
@@ -716,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Shared\\Program.cs",
               "RelativeDocumentMoniker": "BasalatAssessment.Shared\\Program.cs",
@@ -725,6 +667,40 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T00:53:01.652Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "f700279a-6aaa-42d2-9c15-5c9e23f9e252",
+        "Display": 0,
+        "X": 743,
+        "Y": 99,
+        "Width": 1132,
+        "Height": 766,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleDetails.cs",
+              "RelativeDocumentMoniker": "BasalatAssessment.Domain\\Models\\VehicleDetails.cs",
+              "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Domain\\Models\\VehicleDetails.cs",
+              "RelativeToolTip": "BasalatAssessment.Domain\\Models\\VehicleDetails.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:34:50.489Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,12 +15,10 @@
         public object Rear_Track { get; set; }
         public object Ground_Clearance { get; set; }
         public object Cargo_Capacity { get; set; }
-        //public object MaxCargoCapacity { get; set; }
-        //public int CurbWeight { get; set; }
-        //public object GrossWeight { get; set; }
-        //public object MaxPayload { get; set; }
-        //public object MaxTowingCapacity { get; set; }
-        //public MakeModelTrim MakeModelTrim { get; set; }
-        //public MakeModel MakeModel { get; set; }
+        public object Max_Cargo_Capacity { get; set; }
+        public object Curb_Weight { get; set; }
+        public object Gross_Weight { get; set; }
+        public object Max_Payload { get; set; }
+        public object Max_Towing_Capacity { get; set; }
     }
 }

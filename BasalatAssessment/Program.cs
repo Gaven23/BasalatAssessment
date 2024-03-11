@@ -2,8 +2,10 @@ using BasalatAssessment.Common;
 using BasalatAssessment.Domain.Interfaces;
 using BasalatAssessment.Stock.Data;
 using BasalatAssessment.Vehicle.Data;
+using BasalatAssessment.Vehicle.Data.Hangfire;
 using BasalatAssessment.Vehicle.Data.Tracking;
 using BasalatAssessment.Vehicle.Data.Tracking.DataStore;
+using Hangfire;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
@@ -27,8 +29,8 @@ public static class Program
             ConfigureServices(builder);
 
             var app = builder.Build();
-
-            ConfigurePipeline(app);
+            var backgroundJobs = app.Services.GetRequiredService<IBackgroundJobClient>();
+            ConfigurePipeline(app, backgroundJobs);
 
             app.Run();
         }
@@ -46,15 +48,16 @@ public static class Program
     {
         builder.Services.Configure<AppSettings>(builder.Configuration);
         var appSettings = builder.Configuration.Get<AppSettings>();
+        ConfigureData(builder.Services, appSettings?.ConnectionStrings?.VehicleTracking);
+        ConfigureServices(builder.Services, builder.Configuration);
         ConfigureHttpClients(builder.Services, appSettings);
-        ConfigureServices(builder.Services);
         ConfigureHsts(builder.Services);
         builder.Services.AddControllers();
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
     }
 
-    private static void ConfigurePipeline(WebApplication app)
+    private static void ConfigurePipeline(WebApplication app, IBackgroundJobClient backgroundJobs)
     {
         // Configure the HTTP request pipeline.
         if (app.Environment.IsDevelopment())
@@ -66,7 +69,18 @@ public static class Program
         app.UseHttpsRedirection();
         app.UseRouting();
         app.UseAuthorization();
-        app.MapControllers();
+        app.UseStaticFiles();
+
+        app.UseHangfireDashboard();
+
+        // Enqueue a background job
+        backgroundJobs.Enqueue(() => Console.WriteLine("Hello world from Hangfire!"));
+        RecurringJob.AddOrUpdate<HangFireService>("Process Data Messages", x => x.SaveVehicleDataAsync(), Cron.Hourly);
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+            endpoints.MapDefaultControllerRoute();
+        });
     }
 
     private static void ConfigureHttpClients(IServiceCollection services, AppSettings? appSettings)
@@ -92,7 +106,6 @@ public static class Program
         });
     }
 
-
     private static void ConfigureData(IServiceCollection services, string? VehicleTrackingConnectionString)
     {
         if (VehicleTrackingConnectionString == null)
@@ -108,10 +121,20 @@ public static class Program
         services.AddScoped<IDataStore, DataStore>();
     }
 
-    private static void ConfigureServices(IServiceCollection services)
+    private static void ConfigureServices(IServiceCollection services, IConfiguration configuration)
     {
         services.AddScoped<IVehicleDataStore, VehicleDataStore>();
         services.AddScoped<IStockDataStore, StockDataStore>();
+        services.AddScoped<IVehicleDataStore, VehicleDataStore>();
+        // Add Hangfire services.
+        services.AddHangfire(config => config
+            .SetDataCompatibilityLevel(CompatibilityLevel.Version_180)
+            .UseSimpleAssemblyNameTypeSerializer()
+            .UseRecommendedSerializerSettings()
+            .UseSqlServerStorage(configuration.GetConnectionString("VehicleTracking")));
+
+        // Add the processing server as IHostedService
+        services.AddHangfireServer();
     }
 
     private static void ConfigureHsts(IServiceCollection services)
