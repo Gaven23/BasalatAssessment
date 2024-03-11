@@ -3,6 +3,13 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>fd75b324-609e-4323-ac97-03f031deb763</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<RuntimeIdentifiers>linux-x64;win-x64</RuntimeIdentifiers>
+		<EnableSdkContainerDebugging>True</EnableSdkContainerDebugging>
+		<DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+		<ContainerRuntimeIdentifier>win-x64</ContainerRuntimeIdentifier>
+		<ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:8.0-nanoserver-1809</ContainerBaseImage>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -17,6 +24,7 @@
 		<PackageReference Include="Hangfire.SqlServer" Version="1.8.*" />
 		<PackageReference Include="Hangfire.AspNetCore" Version="1.8.*" />
 		<PackageReference Include="Microsoft.Data.SqlClient" Version="*" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
 	</ItemGroup>
 	
 	<ItemGroup>
@@ -43,6 +51,12 @@
     <ProjectReference Include="..\BasalatAssessment.Stock.Data\BasalatAssessment.Stock.Data.csproj" />
     <ProjectReference Include="..\BasalatAssessment.Vehicle.Data.Tracking\BasalatAssessment.Vehicle.Data.Tracking.csproj" />
     <ProjectReference Include="..\BasalatAssessment.Vehicle.Data\BasalatAssessment.Vehicle.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ContainerEnvironmentVariable Include="ASPNETCORE_HTTPS_PORTS">
+      <Value>8081</Value>
+    </ContainerEnvironmentVariable>
   </ItemGroup>
 
 </Project>

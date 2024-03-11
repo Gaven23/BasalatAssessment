@@ -27,6 +27,37 @@
   },
   {
     "ContainingType": "BasalatAssessment.Vehicle.Controllers.VehicleController",
+    "Method": "GetVehicleDetailsAsync",
+    "RelativePath": "api/Vehicle/VehicleDatails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BasalatAssessment.Domain.Models.VehicleDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BasalatAssessment.Vehicle.Controllers.VehicleController",
     "Method": "GetVehicleMakesAsync",
     "RelativePath": "api/Vehicle/VehicleMakes",
     "HttpMethod": "GET",

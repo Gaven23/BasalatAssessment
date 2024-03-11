@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VehicleTracking.Web.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d16c6b65d74507cdb5d46525bab3a26a1ee33e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2581f5e616f30ebe29e57fc2a8bb7ae4004483d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VehicleTracking.Web.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VehicleTracking.Web.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

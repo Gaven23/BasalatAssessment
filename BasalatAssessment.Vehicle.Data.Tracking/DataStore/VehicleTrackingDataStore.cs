@@ -5,9 +5,10 @@ namespace BasalatAssessment.Vehicle.Data.Tracking.DataStore
 {
     partial class DataStore
     {
-        public async Task<IEnumerable<VehicleDetails>> GetVehiclesDetailsAsync(Guid vehicleId, CancellationToken cancellationToken = default)
+
+        public async Task<IEnumerable<VehicleDetails>> GetVehiclesDetailsAsync(CancellationToken cancellationToken = default)
         {
-            var query = _dbContext.VehicleDetails.AsNoTracking().Where(e => e.VehicleId == vehicleId);
+            var query = _dbContext.VehicleDetails.AsNoTracking();
 
             return await query.ToListAsync(cancellationToken);
         }

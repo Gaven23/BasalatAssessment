@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasalatAssessment.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba146442bed061db4ad13cd3fafdc37d86402bc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2581f5e616f30ebe29e57fc2a8bb7ae4004483d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasalatAssessment.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasalatAssessment.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

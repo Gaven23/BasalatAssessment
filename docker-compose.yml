@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  basalatassessment.vehicle:
+    image: ${DOCKER_REGISTRY-}basalatassessmentvehicle
+    build:
+      context: .
+      dockerfile: BasalatAssessment/Dockerfile

@@ -1,4 +1,6 @@
-﻿namespace BasalatAssessment.Vehicle.Data.Tracking.DataStore
+﻿using BasalatAssessment.Vehicle.Data.Tracking.Entities;
+
+namespace BasalatAssessment.Vehicle.Data.Tracking.DataStore
 {
     public partial class DataStore : IDataStore
     {
