@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasalatAssessment.Vehicle.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2581f5e616f30ebe29e57fc2a8bb7ae4004483d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2cf441f2994a3e167e8171176bb70699ef8618c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasalatAssessment.Vehicle.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasalatAssessment.Vehicle.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

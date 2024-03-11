@@ -8,9 +8,7 @@ namespace BasalatAssessment.Vehicle.Data.Tracking.DataStore
 
         public async Task<IEnumerable<VehicleDetails>> GetVehiclesDetailsAsync(CancellationToken cancellationToken = default)
         {
-            var query = _dbContext.VehicleDetails.AsNoTracking();
-
-            return await query.ToListAsync(cancellationToken);
+            return await _dbContext.VehicleDetails.AsNoTracking().ToListAsync(cancellationToken);
         }
 
         public async Task SaveVehicleDetailsAsync(VehicleDetails vehicleDetails)
