@@ -204,8 +204,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -229,8 +233,7 @@
               "RelativeToolTip": "BasalatAssessment.Tests\\DataStoreHelper.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAuwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:23:39.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T20:23:39.105Z"
             },
             {
               "$type": "Document",
@@ -242,12 +245,7 @@
               "RelativeToolTip": "BasalatAssessment.Tests\\TestHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:22:48.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-03-11T20:22:48.598Z"
             },
             {
               "$type": "Document",
@@ -259,8 +257,7 @@
               "RelativeToolTip": "BasalatAssessment.Tests\\Data\\VehicleDataStoreTest.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:16:42.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T20:16:42.18Z"
             },
             {
               "$type": "Document",
@@ -272,21 +269,19 @@
               "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\DataStore\\VehicleTrackingDataStore.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:11:32.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T20:11:32.152Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BasalatAssessment.Tests",
+              "Title": "BasalatAssessment.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Tests\\BasalatAssessment.Tests.csproj",
               "RelativeDocumentMoniker": "BasalatAssessment.Tests\\BasalatAssessment.Tests.csproj",
               "ToolTip": "C:\\Users\\Omphile.mojahi\\source\\repos\\Gaven23\\BasalatAssessment\\BasalatAssessment.Tests\\BasalatAssessment.Tests.csproj",
               "RelativeToolTip": "BasalatAssessment.Tests\\BasalatAssessment.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-11T20:13:27.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T20:13:27.149Z"
             },
             {
               "$type": "Document",
@@ -298,8 +293,7 @@
               "RelativeToolTip": "BasalatAssessment.Tests\\Data\\AadAuthenticationInterceptor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:24:57.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T20:24:57.415Z"
             },
             {
               "$type": "Document",
@@ -311,8 +305,7 @@
               "RelativeToolTip": "BasalatAssessment\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T04:14:54.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T04:14:54.267Z"
             },
             {
               "$type": "Document",
@@ -324,8 +317,7 @@
               "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\IDataStore.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:13:29.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T20:13:29.73Z"
             },
             {
               "$type": "Document",
@@ -337,8 +329,7 @@
               "RelativeToolTip": "BasalatAssessment\\Controllers\\VehicleController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwCsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T14:54:20.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T14:54:20.512Z"
             },
             {
               "$type": "Document",
@@ -350,8 +341,7 @@
               "RelativeToolTip": "BasalatAssessment.Tests\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:11:16.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T20:11:16.287Z"
             },
             {
               "$type": "Document",
@@ -363,8 +353,7 @@
               "RelativeToolTip": "BasalatAssessment\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-11T19:38:25.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T19:38:25.124Z"
             },
             {
               "$type": "Document",
@@ -424,8 +413,7 @@
               "RelativeToolTip": "BasalatAssessment\\BasalatAssessment.Vehicle.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T14:08:00.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T14:08:00.929Z"
             },
             {
               "$type": "Document",
@@ -617,8 +605,7 @@
               "RelativeToolTip": "BasalatAssessment.Vehicle.Data.Tracking\\BasalatAssessment.Vehicle.Data.Tracking.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T20:13:17.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T20:13:17.52Z"
             },
             {
               "$type": "Document",
@@ -630,8 +617,7 @@
               "RelativeToolTip": "BasalatAssessment.Stock.Data\\BasalatAssessment.Stock.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T11:10:17.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T11:10:17.439Z"
             },
             {
               "$type": "Document",
